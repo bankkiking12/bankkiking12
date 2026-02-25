@@ -24,7 +24,7 @@
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,php,dart" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c" />
 </p>
 
 ---
