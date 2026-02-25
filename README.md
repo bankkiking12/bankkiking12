@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-<h1 align="center">Hi 👋 I'm Saharak</h1>
+<h1 align="center">Hi 👋 I'm Saharak Nukhao</h1>
 
-<h3 align="center">Full-Stack Web & Mobile Application Developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+Firebase;Mobile+App+Developer;Always+Learning+New+Things" />
@@ -12,10 +12,10 @@
 ## 🌍 About Me
 
 - 🌍 Based in Bangkok, Thailand  
-- 💻 Passionate about Web & Mobile Development  
+- 💻 Passionate about Web Development  
 - 🚀 Building Real-world Projects  
 - 🎯 Goal: Become Professional Software Engineer  
-- ✉️ Email: your-email@gmail.com  
+- ✉️ Email: saharakbank@gmail.com  
 
 ---
 
