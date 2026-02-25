@@ -32,7 +32,7 @@
 ## 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
 </p>
 
 
@@ -49,7 +49,7 @@
 ## 🛠 Tools & Others
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
 ---
